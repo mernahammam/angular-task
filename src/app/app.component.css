@@ -1,0 +1,19 @@
+.align-center{
+    position: absolute;
+    top: 10vh;
+    left: 25vw;
+}
+.btn-sizing{
+    width: 20vw;
+}
+input{
+    display: inline;
+}
+img{
+    width: 10%;
+    height: 10%;
+    margin: 10px 10px 10px 40px;
+}
+.btn{
+    margin-top: 5px;
+}
